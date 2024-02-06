@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadethorn
 - 👀 I’m interested in data analytics and video games.
-- 🌱 I’m currently learning how to code in R and make visualizations in Tableau.
+- 🌱 I’m currently learning web development through The Odin Project.
 
 <!---
 jadethorn/jadethorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
